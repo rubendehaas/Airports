@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Airports</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="icao">ICAO</string>
+    <string name="airport">Airports</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="prompt_spinner_language">Select language</string>
+
+    <string-array name="lang_key">
+        <item></item>
+        <item>en</item>
+        <item>ja</item>
+    </string-array>
+    <string-array name="lang_val">
+        <item>Select a language...</item>
+        <item name="en">English</item>
+        <item name="ja">日本語</item>
+    </string-array>
+</resources>

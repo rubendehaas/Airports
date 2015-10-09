@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">空港</string>
+
+    <string name="hello_world">こんにちは世界！</string>
+    <string name="action_settings">設定</string>
+    <string name="action_search">検索</string>
+    <string name="icao">ICAO</string>
+    <string name="airport">空港</string>
+    <string name="title_activity_maps">地図</string>title_activity_settings
+    <string name="title_activity_settings">設定</string>
+
+    <string name="prompt_spinner_language">言語を選択する</string>
+
+    <string-array name="lang_key">
+        <item></item>
+        <item>en</item>
+        <item>ja</item>
+    </string-array>
+    <string-array name="lang_val">
+        <item>言語を選択...</item>
+        <item name="en">English</item>
+        <item name="ja">日本語</item>
+    </string-array>
+</resources>
